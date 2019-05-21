@@ -1,0 +1,7 @@
+Javascript notes
+
+It's popular for devs to use `` instead of '',"" for strings so that you can press enter in the string and it will display correctly.
+
+console.log will give an error since console isn't created until the index.html and dev tools in the browser are created.
+
+All coding languages do not like unused variables.
